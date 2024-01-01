@@ -1096,3 +1096,4 @@
 .venv/lib/python3.10/site-packages/setuptools/_vendor/packaging/_typing.py
 .venv/lib/python3.10/site-packages/setuptools/_vendor/packaging/markers.py
 .venv/lib/python3.10/site-packages/setuptools/_vendor/packaging/requirements.py
+venv/

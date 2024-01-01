@@ -1,0 +1,8 @@
+name: geoarch
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - geopandas
+  - streamlit
+  # Add other dependesncies as needed

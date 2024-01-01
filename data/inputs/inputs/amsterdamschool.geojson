@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [4.9041, 52.3676]
+        },
+        "properties": {
+          "Name": "Place A",
+          "Category": "Architecture"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [4.8974, 52.3784]
+        },
+        "properties": {
+          "Name": "Place B",
+          "Category": "Recreation"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [4.8998, 52.3594]
+        },
+        "properties": {
+          "Name": "Place C",
+          "Category": "Architecture"
+        }
+      }
+    ]
+  }
+  
